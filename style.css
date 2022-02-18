@@ -1,0 +1,7 @@
+body{
+    background-image: url("bg.gif");
+    color:wheat;
+    background-size: cover;
+    font-family: 'Redressed', cursive;
+    font-size: 22px;
+}
